@@ -1,32 +1,62 @@
-Privacy Policy
-Segar Taxi is pleased to provide you with our taxi booking service through the Segar Taxi mobile application. This app is offered for free by Yemane and is designed for use as is.
-This page is intended to inform you about our policies concerning the collection, use, and disclosure of personal information if you choose to use our Service.
-By using the Segar Taxi app, you agree to the collection and use of information as outlined in this policy. We assure you that we will not use or share your information with anyone except as described in this Privacy Policy.
-Please note that the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which can be accessed on the Segar Taxi app unless otherwise defined in this Privacy Policy.
+Privacy Policy for Segar Taxi App
 
-Information Collection and Use
-To enhance your experience while using our Service, we may request certain personally identifiable information. This information is retained on your device and is not collected by us in any way.
-The app may utilize third-party services that could collect information for identification purposes. Please refer to the privacy policies of these third-party service providers, such as Google Play Services, for more details.
+Last Updated: 14/11/2023
 
-Log Data
-When you use our Service, we may collect data and information (through third-party products) in case of an error in the app. This Log Data may include your device's Internet Protocol ("IP") address, device name, operating system version, app configuration details, the time and date of your use of the Service, and other statistics.
+1. Introduction
 
-Cookies
-Our Service does not explicitly use cookies. However, third-party code and libraries integrated into the app may use cookies to collect information and enhance their services. You have the option to accept or refuse these cookies, but refusing may limit some functionalities of the Service.
-Service Providers
-To improve and facilitate our Service, we may engage third-party companies and individuals for various reasons; including providing services on our behalf and analyzing usage patterns. These third parties have access to users' Personal Information solely to perform tasks assigned to them on our behalf.
+Thank you for choosing Segar Taxi, developed by Yemane. This Privacy Policy outlines how we collect, use, and safeguard your personal information in accordance with Google Play's Developer Program Policies.
 
-Security
-We value your trust and strive to use commercially acceptable means to protect your Personal Information. However, please be aware that no internet transmission or electronic storage method is 100% secure, and we cannot guarantee absolute security.
+2. Information We Collect
 
-Links to Other Sites
-The Service may contain links to external sites. We advise you to review the Privacy Policy of these sites, as we have no control over and assume no responsibility for the content, privacy policies, or practices of third-party sites or services.
+We collect the following types of information:
 
-Children’s Privacy
-Our Service is not intended for individuals under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and discover that your child has provided personal information, please contact us, and we will promptly take necessary actions.
+Account Information: When you create an account, we collect your name, email address, phone number, and payment details.
 
-Changes to This Privacy Policy
-We may update our Privacy Policy periodically, and you are encouraged to review this page for any changes. We will notify you of any changes by posting the updated Privacy Policy on this page.
+Location Information: To provide our ride-sharing services, we collect your location data for pick-up and drop-off.
 
-Contact Us
-If you have any questions or suggestions regarding our Privacy Policy, please do not hesitate to contact us at yemanam@gmail.com.
+Usage Information: Information about how you use our app, including routes and ride duration.
+
+Device Information: Details about the device you use to access our services.
+
+3. Use of Information
+
+We use your information for:
+
+Providing Services: To offer ride-sharing services, process payments, and provide customer support.
+
+Improving Services: Analyzing usage patterns to enhance and optimize our app.
+
+Communications: Sending updates, promotions, and relevant information about our services.
+
+4. Privacy Policy Compliance
+
+We understand the importance of a compliant privacy policy. We have taken the following steps to address Google Play's concerns:
+
+Privacy Policy Accessibility: Our privacy policy is available on an active URL, non-editable, specific to Segar Taxi, and explicitly covers user privacy.
+
+Link Placement: The privacy policy is accessible on our app's store listing page and within the app.
+
+Consent for Data Usage: Users are informed about the collection of location data in the background to enable specific features, as detailed in our prominent disclosure.
+
+5. Prominent Disclosure
+
+We have implemented a prominent disclosure in our app that appears before the location runtime permission request. This disclosure includes the following information:
+
+"This app collects location data to enable [list of relevant features] even when the app is closed or not in use. This data is also used to provide ads/support advertising/support ads."
+
+Additional details about how and why we use location data in the background are provided for user clarity.
+
+6. Permissions and APIs
+
+We adhere to Google Play's policies regarding permissions and APIs, ensuring that access to sensitive information is necessary for critical features promoted in our app listing.
+
+7. Contact Information
+
+If you have any questions or concerns regarding our privacy practices or the issues raised by Google Play, please contact us at yemanam@gmail.com.
+
+Thank you for choosing Segar Taxi.
+
+Sincerely,
+
+Yemane Alema
+yemanam@gmail.com
